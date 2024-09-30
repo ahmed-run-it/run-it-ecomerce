@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/run-it-ecomerce/static/css/main.197b9ae9.css",
-    "main.js": "/run-it-ecomerce/static/js/main.83f6134a.js",
+    "main.js": "/run-it-ecomerce/static/js/main.3493c634.js",
     "static/media/laptops.png": "/run-it-ecomerce/static/media/laptops.a5a6ab642345b5d38784.png",
     "static/media/slider4.png": "/run-it-ecomerce/static/media/slider4.8049dedb7c458a0534a5.png",
     "static/media/prod4.png": "/run-it-ecomerce/static/media/prod4.60c973db7361e54bb831.png",
@@ -14,10 +14,10 @@
     "static/media/sale.png": "/run-it-ecomerce/static/media/sale.fd3bd0e8262078e4961a.png",
     "index.html": "/run-it-ecomerce/index.html",
     "main.197b9ae9.css.map": "/run-it-ecomerce/static/css/main.197b9ae9.css.map",
-    "main.83f6134a.js.map": "/run-it-ecomerce/static/js/main.83f6134a.js.map"
+    "main.3493c634.js.map": "/run-it-ecomerce/static/js/main.3493c634.js.map"
   },
   "entrypoints": [
     "static/css/main.197b9ae9.css",
-    "static/js/main.83f6134a.js"
+    "static/js/main.3493c634.js"
   ]
 }
