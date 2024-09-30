@@ -9,18 +9,11 @@ import { HomePage } from './module/home/page'
 function App() {
     return (
         <div className="font pb-5">
-            <NavBarLoginContainer />
-            <BrowserRouter>
+            <BrowserRouter basename="/run-it-ecomerce">
+                <NavBarLoginContainer />
                 <Routes>
-                    <Route
-                        index
-                        path="/run-it-ecomerce"
-                        element={<HomePage />}
-                    />
-                    <Route
-                        path="run-it-ecomerce/login"
-                        element={<LoginPage />}
-                    />
+                    <Route index path="/" element={<HomePage />} />
+                    <Route path="login" element={<LoginPage />} />
                 </Routes>
             </BrowserRouter>
             <Footer />

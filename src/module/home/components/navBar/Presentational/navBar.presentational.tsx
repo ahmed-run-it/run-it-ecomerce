@@ -19,13 +19,13 @@ export const NavBarPresentational: React.FC<NavBarPresentationalProps> =
                 <div className="md:w-full md:flex md:items-center md:justify-center">
                     <NavBar.Mobile>
                         <NavBar.Logo>
-                            <a href="/run-it-ecomerce">
+                            <NavBar.Link href="/">
                                 <img
                                     src={Logo}
                                     className="logo"
                                     alt="Company logo"
                                 />
-                            </a>
+                            </NavBar.Link>
                         </NavBar.Logo>
                         <NavBar.Toggle onClick={onToggle}>
                             <img
@@ -42,7 +42,8 @@ export const NavBarPresentational: React.FC<NavBarPresentationalProps> =
                             placeholder="بحث"
                             className="h-9 w-9/12 rounded outline-none text-center mt-8 md:mt-0"
                         />
-                        <NavBar.Link href="/run-it-ecomerce/login">
+                        {/* Remplacer <a> par NavBar.Link */}
+                        <NavBar.Link href="/login">
                             <img
                                 src={Login}
                                 alt="Login icon for user authentication"
@@ -50,7 +51,8 @@ export const NavBarPresentational: React.FC<NavBarPresentationalProps> =
                             />
                             <p>دخول</p>
                         </NavBar.Link>
-                        <NavBar.Link href="/run-it-ecomerce/cart">
+                        {/* Remplacer <a> par NavBar.Link */}
+                        <NavBar.Link href="/cart">
                             <img
                                 src={Cart}
                                 alt="Shopping cart icon"
