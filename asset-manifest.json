@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/run-it-ecomerce/static/css/main.197b9ae9.css",
+    "main.js": "/run-it-ecomerce/static/js/main.83f6134a.js",
+    "static/media/laptops.png": "/run-it-ecomerce/static/media/laptops.a5a6ab642345b5d38784.png",
+    "static/media/slider4.png": "/run-it-ecomerce/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/prod4.png": "/run-it-ecomerce/static/media/prod4.60c973db7361e54bb831.png",
+    "static/media/slider1.png": "/run-it-ecomerce/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/prod3.png": "/run-it-ecomerce/static/media/prod3.c073f706ba444448c519.png",
+    "static/media/prod1.png": "/run-it-ecomerce/static/media/prod1.9f9a0d840227c590ac5d.png",
+    "static/media/clothe.png": "/run-it-ecomerce/static/media/clothe.63497de16012693f71f1.png",
+    "static/media/cat2.png": "/run-it-ecomerce/static/media/cat2.cb9155160d37d36502be.png",
+    "static/media/labtop.png": "/run-it-ecomerce/static/media/labtop.72427ac57eccb337dd2b.png",
+    "static/media/sale.png": "/run-it-ecomerce/static/media/sale.fd3bd0e8262078e4961a.png",
+    "index.html": "/run-it-ecomerce/index.html",
+    "main.197b9ae9.css.map": "/run-it-ecomerce/static/css/main.197b9ae9.css.map",
+    "main.83f6134a.js.map": "/run-it-ecomerce/static/js/main.83f6134a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.197b9ae9.css",
+    "static/js/main.83f6134a.js"
+  ]
+}
