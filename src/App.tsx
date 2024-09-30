@@ -12,8 +12,15 @@ function App() {
             <NavBarLoginContainer />
             <BrowserRouter>
                 <Routes>
-                    <Route index element={<HomePage />} />
-                    <Route path="/login" element={<LoginPage />} />
+                    <Route
+                        index
+                        path="/run-it-ecomerce"
+                        element={<HomePage />}
+                    />
+                    <Route
+                        path="run-it-ecomerce/login"
+                        element={<LoginPage />}
+                    />
                 </Routes>
             </BrowserRouter>
             <Footer />
